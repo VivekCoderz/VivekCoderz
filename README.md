@@ -87,6 +87,14 @@
 
 ---
 
+## 📄 Resume  
+
+📥 **[Download My Resume](https://drive.google.com/file/d/1bFBEEveTawTO7wKZgaqU1QjMlUnONsuR/view?usp=sharing)**  
+
+---
+
+
+
 ## 🤝 Connect With Me
 
 - 💻 GitHub: https://github.com/VivekCoderz  
