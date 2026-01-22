@@ -1,18 +1,22 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Vivek%20Garg&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0e75b6&size=24&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+Developer;DSA+Learner;Building+Real-World+Projects;Hackathon+Participant" />
-</h3>
-
-<p align="center">
-  <a href="https://github.com/VivekCoderz">
-    <img src="https://komarev.com/ghpvc/?username=VivekCoderz&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+<div align="center">
+<!-- Dynamic Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=250&section=header&text=Vivek%20Garg&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=20" />
+<!-- Animated Typing Effect -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%2B+Node.js+Expert+%F0%9F%92%BB;Building+Scalable+Applications+%E2%9A%A1;DSA+%26+Problem+Solver+%F0%9F%A7%A0;Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+<!-- Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=VivekCoderz&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/VivekCoderz?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
   <a href="https://www.linkedin.com/in/vivek-garg-9989202ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-Vivek%20Garg-blue?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+</div>
+
+
+
+
 
 ---
 
@@ -77,13 +81,11 @@
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VivekCoderz&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VivekCoderz&theme=tokyonight" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=VivekCoderz&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekCoderz&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="32%" src="https://github-readme-streak-stats-eight.vercel.app/?user=VivekCoderz&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekCoderz&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
