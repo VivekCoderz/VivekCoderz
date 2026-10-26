@@ -203,7 +203,7 @@ A project management application inspired by issue-tracking tools, designed to o
 
 <div align="center">
 
-<a href="https://drive.google.com/file/d/1bFBEEveTawTO7wKZgaqU1QjMlUnONsuR/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1gBZRa_HF3cD7N2v6cffAZWNao3SN0Dcg/view?usp=drive_link">
 <img src="https://img.shields.io/badge/Download-My%20Resume-2EA44F?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume"/>
 </a>
 
