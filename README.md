@@ -233,6 +233,10 @@ An issue-tracking app for organizing tasks and project workflows. Group project.
 <img src="https://img.shields.io/badge/LinkedIn-Vivek%20Garg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
+<a href="https://www.facebook.com/profile.php?id=61596261609210">
+<img src="https://img.shields.io/badge/Facebook-Vivek%20Garg-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
 <a href="mailto:vivekgarg.code@gmail.com">
 <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
