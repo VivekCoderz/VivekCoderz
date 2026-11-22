@@ -32,7 +32,7 @@
 Hi, I'm **Vivek Garg**, a 3rd-year B.Tech CSE student at **Geeta University, Panipat**. I build full-stack products with the MERN stack, solve DSA problems in C++ every week, and run my own ecommerce startup.
 
 - 🎓 B.Tech CSE (2024–2028), **CGPA 8.45**, best SGPA **9.21** (Semester 4).
-- 🛍️ Founder of **[Dhagaro](https://dhagaro.vercel.app)**, a home-textile store selling straight from Panipat factories.
+- 🛍️ Founder of **[Dhagaro](https://dhagaro.vercel.app)**, an MSME-registered home-textile store selling straight from Panipat factories ([Instagram](https://www.instagram.com/dhagaro.in/) · [LinkedIn](https://www.linkedin.com/company/dhagaro/)).
 - 👕 Ran **HoliTees**, selling custom Holi T-shirts to 30 customers (~₹6,000 revenue).
 - 💻 Full stack: React, Next.js, Node.js, Express, MongoDB.
 - 🧠 600+ DSA problems solved across LeetCode, CodeChef and Codeforces.
@@ -87,16 +87,17 @@ Hi, I'm **Vivek Garg**, a 3rd-year B.Tech CSE student at **Geeta University, Pan
 
 ### 🛍️ Dhagaro — My Ecommerce Startup
 
-A home-textile ecommerce brand that sells products from Panipat factories straight to customers, with no stock held. I built the whole store myself.
+An **MSME-registered (Udyam) micro enterprise**, started in August 2026: a home-textile ecommerce brand that sells products from Panipat factories straight to customers, with no stock held. I built the whole store myself.
 
 - 🛒 Storefront with COD and Razorpay payments.
 - 🤝 Reseller and seller sign-up system.
 - 📦 Google Shopping product feed.
 - 📢 Sourcing, reseller network and social media run with a small team.
+- 🏛️ Udyam registration: `UDYAM-HR-14-0100594` (Micro, textile retail via e-commerce).
 
 **Tech Stack:** React, Vite, Node.js, Express, MongoDB, Razorpay
 
-🔗 [Live](https://dhagaro.vercel.app) · [Code](https://github.com/VivekCoderz/ApnaBazarr)
+🔗 [Website](https://dhagaro.vercel.app) · [Instagram](https://www.instagram.com/dhagaro.in/) · [Facebook](https://www.facebook.com/dhagaro) · [LinkedIn](https://www.linkedin.com/company/dhagaro/) · [Code](https://github.com/VivekCoderz/ApnaBazarr)
 
 ---
 
