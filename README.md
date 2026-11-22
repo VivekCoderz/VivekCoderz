@@ -2,19 +2,26 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,50:6C63FF,100:00C9A7&height=250&section=header&text=Vivek%20Garg&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Entrepreneur&descAlignY=55&descSize=18" width="100%" alt="Vivek Garg Profile Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,50:6C63FF,100:00C9A7&height=250&section=header&text=Vivek%20Garg&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20DSA%20in%20C%2B%2B%20%7C%20Founder%20%40%20Dhagaro&descAlignY=55&descSize=18" width="100%" alt="Vivek Garg Profile Banner"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=850&height=60&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;React+%2B+Node.js+%2B+MongoDB+%F0%9F%92%BB;Data+Structures+%26+Algorithms+%F0%9F%A7%A0;Building+Real-World+Projects+%E2%9A%A1;Developer+%7C+Entrepreneur+%7C+Problem+Solver" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=850&height=60&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;React+%2B+Node.js+%2B+MongoDB+%F0%9F%92%BB;Data+Structures+%26+Algorithms+in+C%2B%2B+%F0%9F%A7%A0;Founder+%40+Dhagaro+%F0%9F%9B%8D%EF%B8%8F;Open+to+SDE+Internships+%E2%9A%A1" alt="Typing Animation"/>
+
+<br/>
+
+<a href="https://vivekgarg.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-vivekgarg.vercel.app-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/-vivek-garg/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:vivekgarg.code@gmail.com">
+<img src="https://img.shields.io/badge/Email-vivekgarg.code%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=VivekCoderz&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-
 <img src="https://img.shields.io/github/followers/VivekCoderz?label=FOLLOWERS&style=for-the-badge&color=6C63FF&logo=github" alt="GitHub Followers"/>
-
-<a href="https://www.linkedin.com/in/vivek-garg-9989202ba/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
 
 </div>
 
@@ -22,17 +29,28 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Vivek Garg**, a B.Tech Computer Science Engineering student at Geeta University, passionate about software development, problem-solving, and entrepreneurship.
+Hi, I'm **Vivek Garg**, a 3rd-year B.Tech CSE student at **Geeta University, Panipat**. I build full-stack products with the MERN stack, solve DSA problems in C++ every week, and run my own ecommerce startup.
 
-- 🎓 Pursuing B.Tech in Computer Science Engineering.
-- 💻 Focused on Full Stack Web Development using the MERN Stack.
-- 🧠 Practicing Data Structures and Algorithms in C++.
-- 🌐 Building web applications, dashboards, and productivity tools.
-- 🤝 Working on collaborative group projects.
-- 🚀 Exploring startup ideas and real-world business opportunities.
-- 💰 Generated ₹6,000 in revenue through my HoliTees student startup.
-- 🤖 Exploring AI and Generative AI.
-- 🎯 Aspiring to become a Software Engineer.
+- 🎓 B.Tech CSE (2024–2028), **CGPA 8.45**, best SGPA **9.21** (Semester 4).
+- 🛍️ Founder of **[Dhagaro](https://dhagaro.vercel.app)**, a home-textile store selling straight from Panipat factories.
+- 💻 Full stack: React, Next.js, Node.js, Express, MongoDB.
+- 🧠 600+ DSA problems solved across LeetCode, CodeChef and Codeforces.
+- 🤖 Exploring AI / ML and bringing AI features into web apps.
+- 🎯 Open to **SDE internships**.
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **2nd Position**, Internal Smart India Hackathon 2025 (Team Visioneers), Geeta University
+- 👨‍✈️ **Team Leader**, Internal Smart India Hackathon 2026
+- 🔥 **Top 15 Teams**, HackForge 2.0 Hackathon (Team Infinity Iterators)
+- 💡 **Participant**, Ideathon 2026, IEEE Student Branch, Geeta University
+- 💼 Advanced Full Stack Development Internship, Geeta University × Geeta Technical Hub (2026)
+- 🧑‍💻 DSA Advanced Internship, Coding Blocks (2025)
+- ☁️ AWS Solutions Architecture and 📊 Deloitte Data Analytics job simulations (Forage)
+
+🔗 [All certificates](https://vivekgarg.vercel.app/certificates)
 
 ---
 
@@ -47,24 +65,39 @@ Hi, I'm **Vivek Garg**, a B.Tech Computer Science Engineering student at Geeta U
 ### 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" alt="Frontend Technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,redux" alt="Frontend Technologies"/>
 </p>
 
 ### ⚙️ Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" alt="Backend Technologies"/>
 </p>
 
 ### 🔧 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Development Tools"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects & Startup Journey
+
+### 🛍️ Dhagaro — My Ecommerce Startup
+
+A home-textile ecommerce brand that sells products from Panipat factories straight to customers, with no stock held. I built the whole store myself.
+
+- 🛒 Storefront with COD and Razorpay payments.
+- 🤝 Reseller and seller sign-up system.
+- 📦 Google Shopping product feed.
+- 📢 Sourcing, reseller network and social media run with a small team.
+
+**Tech Stack:** React, Vite, Node.js, Express, MongoDB, Razorpay
+
+🔗 [Live](https://dhagaro.vercel.app) · [Code](https://github.com/VivekCoderz/ApnaBazarr)
+
+---
 
 ### 👕 HoliTees — Student Startup
 
@@ -74,89 +107,58 @@ A student startup launched during my 4th semester, focused on customized Holi T-
 - 🛍️ Worked on an online ordering experience.
 - 📢 Focused on promotion and customer outreach.
 - 💰 Generated **₹6,000 in revenue** through the startup initiative.
-- 📈 Gained practical experience in entrepreneurship, sales, marketing, and business execution.
 
 **Focus Areas:** Entrepreneurship, E-commerce, Marketing, Customer Acquisition
 
-🔗 [Explore My Repositories](https://github.com/VivekCoderz?tab=repositories)
+---
+
+### 💼 CareerConnect — Career Platform
+
+Matches students to jobs, internships and courses, with an ATS resume analyzer, a resume builder and skill-gap tracking.
+
+**Tech Stack:** React, Node.js, Express, MongoDB, JWT, AI
+
+🔗 [Live](https://www.codeformode.in) · [Code](https://github.com/VivekCoderz/CareerConnect)
 
 ---
 
-### 🛍️ ApnaBazarr — Entrepreneurship Startup
+### 🎓 Placement Connect — Campus Placement Portal
 
-A startup project developed as part of my entrepreneurship coursework, focused on exploring business opportunities and customer needs.
+Moves Geeta University's campus recruitment off Excel sheets, with student and recruiter panels and an in-app resume builder.
 
-- 💡 Business idea development.
-- 📊 Exploring customer needs and market opportunities.
-- 🛒 Working on a startup-oriented product concept.
-- 🚀 Learning business planning and product execution.
+**Tech Stack:** React, Node.js, Express, MongoDB
 
-**Focus Areas:** Entrepreneurship, Business Development, Product Thinking
-
-🔗 [Explore My Repositories](https://github.com/VivekCoderz?tab=repositories)
+🔗 [Live](https://placementconnect.vercel.app) · [Code](https://github.com/VivekCoderz/Placement-Connect)
 
 ---
 
-### 💼 CareerConnect — Job Portal Platform
+### 🔗 Comets — URL Shortener with Analytics
 
-A group project currently under development, focused on connecting job seekers with employers through an online recruitment platform.
+Short links with custom QR codes, API keys and click analytics. Team project.
 
-- 💼 Job and internship opportunities.
-- 📝 Application management workflows.
-- 🏢 Employer and recruiter functionality.
-- 🤝 Collaborative software development.
-- 🚀 Continuously developing and improving platform features.
+**Tech Stack:** Next.js, Tailwind CSS, MongoDB, Redis, Zod
 
-**Tech Stack:** React, Node.js, Express.js, MongoDB
-
-**Project Status:** In Development
-
-🔗 [Explore My Repositories](https://github.com/VivekCoderz?tab=repositories)
+🔗 [Live](https://cometurl.vercel.app) · [Code](https://github.com/VivekCoderz/Comets-URL-Shortener-with-Analytics-)
 
 ---
 
-### 🎓 Placement Connect — Internship Platform
+### 💬 NexaChat — Real-time Chat App
 
-A collaborative group project focused on internship opportunities and placement-related services for students.
+Real-time messaging with reels, a storefront and user profiles.
 
-- 🔎 Internship opportunity discovery.
-- 🎯 Student-focused placement support.
-- 🤝 Team-based software development.
-- 🛠️ Practical experience with collaborative development workflows.
+**Tech Stack:** React, Node.js, Express, Socket.io, MongoDB
 
-**Tech Stack:** Add the technologies used in the actual project.
-
-🔗 [Explore My Repositories](https://github.com/VivekCoderz?tab=repositories)
-
----
-
-### 💬 Chat Web Application
-
-A web application focused on providing users with an interactive chat experience.
-
-- 💬 Interactive messaging interface.
-- 👥 User-focused communication experience.
-- 🌐 Web application development.
-- 🛠️ Building and improving interactive features.
-
-**Tech Stack:** Add the technologies used in the actual project.
-
-🔗 [Explore My Repositories](https://github.com/VivekCoderz?tab=repositories)
+🔗 [Live](https://nexachat-virid.vercel.app) · [Code](https://github.com/VivekCoderz/Chat-web-Application)
 
 ---
 
 ### 📋 Mini Jira — Task Management Application
 
-A project management application inspired by issue-tracking tools, designed to organize tasks and manage project workflows.
+An issue-tracking app for organizing tasks and project workflows. Group project.
 
-- 📌 Task and issue management.
-- 📊 Organized project workflows.
-- 👥 Structured task tracking.
-- 🛠️ Building productivity-focused application features.
+**Tech Stack:** React, Tailwind CSS, Recharts, Node.js, Express, MongoDB, JWT
 
-**Tech Stack:** Add the technologies used in the actual project.
-
-🔗 [Explore My Repositories](https://github.com/VivekCoderz?tab=repositories)
+🔗 [Code](https://github.com/Tripti129/Mini-Jira)
 
 ---
 
@@ -186,14 +188,19 @@ A project management application inspired by issue-tracking tools, designed to o
 
 ## 🧩 Problem Solving
 
-- 🧠 Practicing Data Structures and Algorithms in C++.
-- 🌳 Learning graph algorithms, recursion, and backtracking.
-- 📈 Improving problem-solving skills through coding practice.
-- 🎯 Working toward writing efficient and readable code.
+- 🧠 Data Structures and Algorithms in C++.
+- 🌳 Graphs, recursion, backtracking and dynamic programming.
+- 📈 Regular contests on LeetCode, CodeChef and Codeforces.
 
 <p>
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+<a href="https://leetcode.com/u/Vivek_Garg2005/">
+<img src="https://img.shields.io/badge/LeetCode-Vivek__Garg2005-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://www.codechef.com/users/vivek_codes_19">
+<img src="https://img.shields.io/badge/CodeChef-vivek__codes__19-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
+<a href="https://codeforces.com/profile/VivekGarg2005">
+<img src="https://img.shields.io/badge/Codeforces-VivekGarg2005-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
 </a>
 </p>
 
@@ -203,8 +210,8 @@ A project management application inspired by issue-tracking tools, designed to o
 
 <div align="center">
 
-<a href="https://drive.google.com/file/d/1gBZRa_HF3cD7N2v6cffAZWNao3SN0Dcg/view?usp=drive_link">
-<img src="https://img.shields.io/badge/Download-My%20Resume-2EA44F?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume"/>
+<a href="https://vivekgarg.vercel.app/Vivek_Garg_Resume.pdf">
+<img src="https://img.shields.io/badge/Download-My%20Resume-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
 </a>
 
 </div>
@@ -215,12 +222,16 @@ A project management application inspired by issue-tracking tools, designed to o
 
 <p align="center">
 
-<a href="https://github.com/VivekCoderz">
-<img src="https://img.shields.io/badge/GitHub-VivekCoderz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://vivekgarg.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Vivek%20Garg-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
-<a href="https://www.linkedin.com/in/vivek-garg-9989202ba/">
+<a href="https://www.linkedin.com/in/-vivek-garg/">
 <img src="https://img.shields.io/badge/LinkedIn-Vivek%20Garg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:vivekgarg.code@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </p>
@@ -238,4 +249,3 @@ A project management application inspired by issue-tracking tools, designed to o
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,50:6C63FF,100:00C9A7&height=120&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
-```
