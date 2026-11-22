@@ -33,6 +33,7 @@ Hi, I'm **Vivek Garg**, a 3rd-year B.Tech CSE student at **Geeta University, Pan
 
 - 🎓 B.Tech CSE (2024–2028), **CGPA 8.45**, best SGPA **9.21** (Semester 4).
 - 🛍️ Founder of **[Dhagaro](https://dhagaro.vercel.app)**, a home-textile store selling straight from Panipat factories.
+- 👕 Ran **HoliTees**, selling custom Holi T-shirts to 30 customers (~₹6,000 revenue).
 - 💻 Full stack: React, Next.js, Node.js, Express, MongoDB.
 - 🧠 600+ DSA problems solved across LeetCode, CodeChef and Codeforces.
 - 🤖 Exploring AI / ML and bringing AI features into web apps.
@@ -106,7 +107,8 @@ A student startup launched during my 4th semester, focused on customized Holi T-
 - 💡 Identified a campus-focused business opportunity.
 - 🛍️ Worked on an online ordering experience.
 - 📢 Focused on promotion and customer outreach.
-- 💰 Generated **₹6,000 in revenue** through the startup initiative.
+- 👥 Sold to **30 customers**, students and university faculty.
+- 💰 Generated about **₹6,000 in revenue** at ₹199 per shirt.
 
 **Focus Areas:** Entrepreneurship, E-commerce, Marketing, Customer Acquisition
 
